@@ -1,2 +1,2 @@
-# Pagina_links
-Página simples em HTML e CSS para centralizar links úteis, ideal para uso em perfis de redes sociais como Instagram.
+
+Uma página simples e responsiva desenvolvida com HTML e CSS, ideal para centralizar links úteis como redes sociais, portfólio e outros recursos
