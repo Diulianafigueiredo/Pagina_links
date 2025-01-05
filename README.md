@@ -1,4 +1,4 @@
-Este projeto foi desenvolvido como um trabalho remunerado para uma academia. Uma página de links foi projetada para facilitar o acesso às informações e serviços da academia, com um design responsivo e intuitivo.
+Uma página web desenvolvida para um doutor em cardiologia, projetada para centralizar links importantes relacionados à sua prática médica. Este projeto combina simplicidade, funcionalidade e design responsivo, permitindo que pacientes e visitantes tenham facilmente informações úteis, como contatos, agendamento e redes sociais.
 
 *Funcionalidade* 
 Links para agendamentos e informações dos serviços.
